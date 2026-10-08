@@ -8,7 +8,7 @@ long_description = (this_directory / "README.md").read_text(encoding='utf-8') if
 
 setup(
     name="haiec-isaf-logger",
-    version="0.3.0",
+    version="0.3.1",
     author="HAIEC Lab",
     author_email="contact@haiec.com",
     description="Instruction Stack Audit Framework - Automatic compliance logging for AI systems",
@@ -26,7 +26,7 @@ setup(
     },
     python_requires=">=3.8",
     install_requires=[
-        "numpy>=1.19.0",
+        "numpy>=1.22.0",
         "click>=8.0.0"
     ],
     extras_require={

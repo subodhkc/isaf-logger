@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "haiec-isaf-logger"
-version = "0.3.0"
+version = "0.3.1"
 description = "Instruction Stack Audit Framework - Automatic compliance logging for AI systems"
 readme = "README.md"
 license = {text = "MIT"}
@@ -28,7 +28,7 @@ classifiers = [
 ]
 keywords = ["ai", "ml", "compliance", "audit", "logging", "eu-ai-act", "nist", "isaf"]
 dependencies = [
-    "numpy>=1.19.0",
+    "numpy>=1.22.0",
     "click>=8.0.0"
 ]
 
