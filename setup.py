@@ -14,10 +14,10 @@ setup(
     description="Instruction Stack Audit Framework - Automatic compliance logging for AI systems",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/haiec/haiec-isaf-logger",
+    url="https://github.com/subodhkc/isaf-logger",
     project_urls={
         "Documentation": "https://haiec.com/isaf/docs",
-        "Bug Tracker": "https://github.com/haiec/haiec-isaf-logger/issues",
+        "Bug Tracker": "https://github.com/subodhkc/isaf-logger/issues",
         "Homepage": "https://haiec.com/isaf"
     },
     packages=find_packages(exclude=["tests*", "examples*"]),

@@ -208,8 +208,8 @@ isaf.export('sklearn_lineage.json')
 
 - **Homepage**: https://haiec.com/isaf
 - **Full Documentation**: https://haiec.com/isaf/docs
-- **GitHub**: https://github.com/haiec/isaf-logger
-- **Issues**: https://github.com/haiec/isaf-logger/issues
+- **GitHub**: https://github.com/subodhkc/isaf-logger
+- **Issues**: https://github.com/subodhkc/isaf-logger/issues
 
 ## Contributing
 
@@ -228,7 +228,7 @@ If you use ISAF Logger in your research, please cite:
   title = {ISAF Logger: Instruction Stack Audit Framework},
   author = {HAIEC Lab},
   year = {2025},
-  url = {https://github.com/haiec/isaf-logger}
+  url = {https://github.com/subodhkc/isaf-logger}
 }
 ```
 
@@ -240,4 +240,4 @@ If you use ISAF Logger in your research, please cite:
 
 ---
 
-Built by [HAIEC](https://haiec.com)
+Built by [Subodh Kc](https://subodhkc.com) — a [HAIEC](https://haiec.com) (Human AI Evidence Company) product.
