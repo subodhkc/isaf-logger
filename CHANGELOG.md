@@ -5,6 +5,18 @@ All notable changes to haiec-isaf-logger will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.3.1] - 2026-10-08
+
+### Fixed
+
+- **Security**: Raised `numpy` floor to `>=1.22.0` — 1.19–1.21 are covered by GHSA-6p56-wp2h-9hxr, GHSA-fpfv-jqm9-f5jm, and PYSEC-2021-856
+- **Metadata**: Repository URLs now point to `github.com/subodhkc/isaf-logger` (previously dead `github.com/haiec/*` links)
+- **Docs**: Added builder and company backlinks (subodhkc.com, HAIEC — Human AI Evidence Company)
+
+### Chore
+
+- Published via GitHub Actions OIDC trusted publishing (no PyPI token)
+
 ## [0.3.0] - 2026-02-02
 
 ### Enhanced

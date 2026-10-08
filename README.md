@@ -5,7 +5,7 @@
 [![PyPI version](https://badge.fury.io/py/haiec-isaf-logger.svg)](https://badge.fury.io/py/haiec-isaf-logger)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-0.3.0-green.svg)](https://pypi.org/project/haiec-isaf-logger/)
+[![Version](https://img.shields.io/badge/version-0.3.1-green.svg)](https://pypi.org/project/haiec-isaf-logger/)
 
 ## Use Cases
 
